@@ -34,7 +34,7 @@ This C++ project implements a priority queue-based system for managing widget or
 
 # Installation and Setup
 
-1. Clone the repository: `git clone [[repository-url](https://github.com/danieldotwav/PriorityQueue)]`.
+1. Clone the repository: `git clone [repository-url](https://github.com/danieldotwav/PriorityQueue)]`.
 2. Navigate to the project directory.
 3. Compile the project: `g++ -o priorityQueue Source.cpp`
 4. Run the compiled executable: `./priorityQueue`.
