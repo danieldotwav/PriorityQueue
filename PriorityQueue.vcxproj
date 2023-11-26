@@ -127,15 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HeapType.cpp" />
-    <ClCompile Include="OrderType.cpp" />
+    <ClCompile Include="Heap.cpp" />
+    <ClCompile Include="Order.cpp" />
+    <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Constants.h" />
-    <ClInclude Include="HeapType.h" />
-    <ClInclude Include="OrderType.h" />
-    <ClInclude Include="PQType.h" />
+    <ClInclude Include="Heap.h" />
+    <ClInclude Include="Order.h" />
+    <ClInclude Include="PriorityQueue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
