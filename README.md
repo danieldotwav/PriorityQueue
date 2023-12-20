@@ -21,7 +21,7 @@ This C++ project implements a priority queue-based system for managing widget or
 
 # Features
 
-![Console Application Screenshot](https://private-user-images.githubusercontent.com/31682816/285629018-dfc9dbe7-de92-4710-adb7-4cffd108da30.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA5NzMwNzEsIm5iZiI6MTcwMDk3Mjc3MSwicGF0aCI6Ii8zMTY4MjgxNi8yODU2MjkwMTgtZGZjOWRiZTctZGU5Mi00NzEwLWFkYjctNGNmZmQxMDhkYTMwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDA0MjYxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0Y2MzYWNkN2FkOGQ3NzFjMjFkZTdjZjdmNTZkMjE0NjJkYmU1ZmE0MWQwM2U3ZWExZWMyNTVmNDM1NDNkZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HHtTvpBr8e2sbDPNaossHHjPitmvq2_-ZQ-TxlpeAY0)
+![Screenshot 2023-12-19 213908](https://github.com/danieldotwav/PriorityQueue/assets/31682816/b34ec6b1-7b21-42f5-aef7-1469f9bef4df)
 
 - **Priority Queue Implementation**: Efficiently manages orders based on priority.
 - **Order Processing**: Simulates daily order processing in a business environment.
